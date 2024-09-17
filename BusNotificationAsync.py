@@ -73,12 +73,14 @@ class AsyncBusNotificationSystem:
             raise ValueError(f"Sub-route {sub_route_name} with direction {direction} not found in route {route_name}")
 
         preferences = self.load_user_preferences(user_id)
-        preferences.append({
+        new_preferences = {
             'route_name': route_name,
             'sub_route_name': sub_route_name,
             'direction': direction,
             'target_stop': target_stop
-        })
+        }
+        if new_preferences not in preferences:
+            preferences.append(new_preferences)
         self.save_user_preferences(user_id, preferences)
 
     async def get_bus_info(self, route_name, sub_route_name, direction):
@@ -202,11 +204,14 @@ async def main():
         while True:
             await notification_system.check_routes()
             await asyncio.sleep(60)  # Check every 60 seconds
-    except KeyboardInterrupt:
-        print("Stopping the notification system...")
+    except asyncio.CancelledError:
+        print("Notification system cancelled.")
     finally:
         await notification_system.close()
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        print("Stopping the notification system...")
