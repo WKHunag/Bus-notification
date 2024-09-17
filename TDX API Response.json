@@ -1,0 +1,917 @@
+[
+  {
+    "StopUID": "TPE38942",
+    "StopID": "38942",
+    "StopName": {
+      "Zh_tw": "中正環河路口",
+      "En": "Zhongzheng&Huanhe Rd.Intersection"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 1374,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38930",
+    "StopID": "38930",
+    "StopName": {
+      "Zh_tw": "智光商職",
+      "En": "Chih-Kuang Senior Commercial & Industrial Vocational High School"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 864,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38933",
+    "StopID": "38933",
+    "StopName": {
+      "Zh_tw": "捷運景平站",
+      "En": "MRT Jingping Sta."
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 1007,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38934",
+    "StopID": "38934",
+    "StopName": {
+      "Zh_tw": "景平路景德街口",
+      "En": "Jingping Jingde Intersection"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 1069,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38936",
+    "StopID": "38936",
+    "StopName": {
+      "Zh_tw": "捷運秀朗橋站",
+      "En": "MRT Xiulang Bridge Sta."
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 1141,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38926",
+    "StopID": "38926",
+    "StopName": {
+      "Zh_tw": "秀朗國小",
+      "En": "Xiulang Elementary School"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 584,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38927",
+    "StopID": "38927",
+    "StopName": {
+      "Zh_tw": "得和路",
+      "En": "Dehe Rd."
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 606,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38928",
+    "StopID": "38928",
+    "StopName": {
+      "Zh_tw": "中興新村",
+      "En": "Zhongxing New Village"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 699,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38929",
+    "StopID": "38929",
+    "StopName": {
+      "Zh_tw": "中興二村",
+      "En": "Zhongxing Village 2"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 746,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38920",
+    "StopID": "38920",
+    "StopName": {
+      "Zh_tw": "基隆長興街口",
+      "En": "Keelung and Changxing Intersection"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 108,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38921",
+    "StopID": "38921",
+    "StopName": {
+      "Zh_tw": "臺大癌醫(基隆路)",
+      "En": "NTU Cancer Center(Keelung Rd.)"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 148,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38922",
+    "StopID": "38922",
+    "StopName": {
+      "Zh_tw": "臺灣科技大學",
+      "En": "NTUST"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 183,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38923",
+    "StopID": "38923",
+    "StopName": {
+      "Zh_tw": "公館",
+      "En": "Gongguan"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 251,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38924",
+    "StopID": "38924",
+    "StopName": {
+      "Zh_tw": "福和橋(林森路)",
+      "En": "Fuhe Bridge(Linsen Rd.)"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 446,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38925",
+    "StopID": "38925",
+    "StopName": {
+      "Zh_tw": "永元路",
+      "En": "Yongyuan Rd."
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 515,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38915",
+    "StopID": "38915",
+    "StopName": {
+      "Zh_tw": "光復南路口",
+      "En": "Guangfu S. Rd. Entrance"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 1097,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38916",
+    "StopID": "38916",
+    "StopName": {
+      "Zh_tw": "三興國小(臨江街觀光夜市)",
+      "En": "Sanxing Elementary School (Linjiang St. Night Market)"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 1171,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38917",
+    "StopID": "38917",
+    "StopName": {
+      "Zh_tw": "喬治商職",
+      "En": "George Vocational High School of Taipei"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 1234,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38918",
+    "StopID": "38918",
+    "StopName": {
+      "Zh_tw": "捷運六張犁站(基隆路)",
+      "En": "MRT Liuzhangli (Keelung Rd.)"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 1315,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38919",
+    "StopID": "38919",
+    "StopName": {
+      "Zh_tw": "和平高中",
+      "En": "Heping High School"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 1419,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38910",
+    "StopID": "38910",
+    "StopName": {
+      "Zh_tw": "臺北市區監理所(光復)",
+      "En": "Taipei City Motor Vehicles Office (Guangfu)"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 474,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38911",
+    "StopID": "38911",
+    "StopName": {
+      "Zh_tw": "捷運國父紀念館站(光復)",
+      "En": "MRT Sun Yat-sen Memorial Hall Sta. (Guangfu)"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 650,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38912",
+    "StopID": "38912",
+    "StopName": {
+      "Zh_tw": "國父紀念館",
+      "En": "Dr. Sun Yat-sen Memorial Hall"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 806,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38913",
+    "StopID": "38913",
+    "StopName": {
+      "Zh_tw": "市民住宅",
+      "En": "Citizens Housing"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 941,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38914",
+    "StopID": "38914",
+    "StopName": {
+      "Zh_tw": "三張犁",
+      "En": "Sanzhangli"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 990,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38904",
+    "StopID": "38904",
+    "StopName": {
+      "Zh_tw": "三民健康路口(西松高中)",
+      "En": "Sanmin and Jiankang Intersection (Xisong High School)"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 1167,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38905",
+    "StopID": "38905",
+    "StopName": {
+      "Zh_tw": "健康新城",
+      "En": "Jiankang New Village"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 70,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38906",
+    "StopID": "38906",
+    "StopName": {
+      "Zh_tw": "長壽公園",
+      "En": "Changshou Park"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 121,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38907",
+    "StopID": "38907",
+    "StopName": {
+      "Zh_tw": "三軍總醫院松山分院",
+      "En": "Tri-Servics General Hospital Songshan Branch"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 143,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38908",
+    "StopID": "38908",
+    "StopName": {
+      "Zh_tw": "南京新村",
+      "En": "Nanjing New Village"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 283,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38909",
+    "StopID": "38909",
+    "StopName": {
+      "Zh_tw": "博仁醫院",
+      "En": "Po Jen Hospital"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 380,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE38903",
+    "StopID": "38903",
+    "StopName": {
+      "Zh_tw": "三民路",
+      "En": "Sanmin Rd. Entrance"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 1092,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59133",
+    "StopID": "59133",
+    "StopName": {
+      "Zh_tw": "公館",
+      "En": "Gongguan"
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59132",
+    "StopID": "59132",
+    "StopName": {
+      "Zh_tw": "臺灣科技大學",
+      "En": "NTUST"
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59135",
+    "StopID": "59135",
+    "StopName": {
+      "Zh_tw": "永元路",
+      "En": "Yongyuan Rd."
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59134",
+    "StopID": "59134",
+    "StopName": {
+      "Zh_tw": "福和橋(林森路)",
+      "En": "Fuhe Bridge(Linsen Rd.)"
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59131",
+    "StopID": "59131",
+    "StopName": {
+      "Zh_tw": "臺大癌醫(基隆路)",
+      "En": "NTU Cancer Center(Keelung Rd.)"
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59130",
+    "StopID": "59130",
+    "StopName": {
+      "Zh_tw": "基隆長興街口",
+      "En": "Keelung and Changxing Intersection"
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59137",
+    "StopID": "59137",
+    "StopName": {
+      "Zh_tw": "得和路",
+      "En": "Dehe Rd."
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59136",
+    "StopID": "59136",
+    "StopName": {
+      "Zh_tw": "秀朗國小",
+      "En": "Xiulang Elementary School"
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59139",
+    "StopID": "59139",
+    "StopName": {
+      "Zh_tw": "中興二村",
+      "En": "Zhongxing Village 2"
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59138",
+    "StopID": "59138",
+    "StopName": {
+      "Zh_tw": "中興新村",
+      "En": "Zhongxing New Village"
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59144",
+    "StopID": "59144",
+    "StopName": {
+      "Zh_tw": "景平路景德街口",
+      "En": "Jingping Jingde Intersection"
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59143",
+    "StopID": "59143",
+    "StopName": {
+      "Zh_tw": "捷運景平站",
+      "En": "MRT Jingping Sta."
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59146",
+    "StopID": "59146",
+    "StopName": {
+      "Zh_tw": "捷運秀朗橋站",
+      "En": "MRT Xiulang Bridge Sta."
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59140",
+    "StopID": "59140",
+    "StopName": {
+      "Zh_tw": "智光商職",
+      "En": "Chih-Kuang Senior Commercial & Industrial Vocational High School"
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59141",
+    "StopID": "59141",
+    "StopName": {
+      "Zh_tw": "南勢角(景平路)",
+      "En": "Nanshijiao(Jingping Rd.)"
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE59147",
+    "StopID": "59147",
+    "StopName": {
+      "Zh_tw": "中正環河路口",
+      "En": "Dapeng New Village"
+    },
+    "RouteUID": "TPE16169",
+    "RouteID": "16169",
+    "RouteName": {
+      "Zh_tw": "672區",
+      "En": "672Shuttle"
+    },
+    "Direction": 1,
+    "StopStatus": 4,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  },
+  {
+    "StopUID": "TPE142282",
+    "StopID": "142282",
+    "StopName": {
+      "Zh_tw": "南勢角(景平路)",
+      "En": "Nanshijiao(Jingping Rd.)"
+    },
+    "RouteUID": "TPE10785",
+    "RouteID": "10785",
+    "RouteName": {
+      "Zh_tw": "672",
+      "En": "672"
+    },
+    "Direction": 1,
+    "EstimateTime": 928,
+    "StopStatus": 0,
+    "SrcUpdateTime": "2024-09-15T10:39:10+08:00",
+    "UpdateTime": "2024-09-15T10:39:14+08:00"
+  }
+]
